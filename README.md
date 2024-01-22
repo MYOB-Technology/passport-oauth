@@ -28,8 +28,8 @@ on the module that implements specific version of OAuth in use.
 ```npm install @myob/passport-oauth```
 
 ## Publish package to cloudsmit
-Login to cloudsmith
-```npm publish --access public```
+- Login to cloudsmith
+- ```npm publish --access public```
 
 ## Tests
 
