@@ -33,7 +33,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "@myob/passport-oauth2": "^1.8.0",
+    "@myob/passport-oauth2": "^1.8.1",
     "passport-oauth1": "1.x.x"
   },
   "devDependencies": {
